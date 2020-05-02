@@ -1,0 +1,34 @@
+body {
+  background-color: #e4f9f5;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h3 {
+  color: #11999e;
+  text-decoration: underline;
+  text-transform: uppercase;
+  text-shadow: 2.5px 4px 3px lightgreen;
+}
+
+h1 { color: #11999e;
+  text-decoration: underline;
+  text-transform: uppercase;
+  text-shadow: 2.5px 4px 3px lightgreen;
+}
+p{
+  color: brown;
+}
+.center{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+h1:hover { color: gold}
